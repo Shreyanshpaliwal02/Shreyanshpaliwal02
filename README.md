@@ -1,8 +1,9 @@
 Namaste🙏, I'm Shreyansh Paliwal. 
+- 💻 I am graduating in 2023 from NIT-Bhopal and I'm looking for jobs in tech companies as a software developer.
 - 👀 I am passionate about learning new technologies which continue to shape the software world around us.
-- 🌱 I’m currently learning Data Structures and Algorithms, development on React.
-- 💞️ I’m looking to collaborate on Python/C++ based projects, AI/ ML Research.
-- 🍇 LeetCode is my daily jam
+- 🌱 I’m currently learning Data Structures and Algorithms,web development on React.js, how APIs work, solving database problems and system design!
+- 💞️ I’m looking to collaborate on all kinds of projects, or AI/ ML Research.
+- 🍇 LeetCode is my daily jam. (https://leetcode.com/Shreyansh-paliwal/)
 - 📫 You can reach me at shreyanshpaliwal0211@gmail.com
 - ☕ LinkedIn: (https://www.linkedin.com/in/shreyansh-p-3a6973119/) I would <3 to connect!
 <!---
